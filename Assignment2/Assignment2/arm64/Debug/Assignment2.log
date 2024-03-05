@@ -1,0 +1,7 @@
+﻿  main.cpp
+  stack.cpp
+  Generating Code...
+C:\Users\jessb\OneDrive\Documents\Fifth Year\Semester 2\Data\Assignment2\Assignment2\stack.cpp(25): warning C4715: 'Stack::top': not all control paths return a value
+C:\Users\jessb\OneDrive\Documents\Fifth Year\Semester 2\Data\Assignment2\Assignment2\linked.h(100): warning C4715: 'Single_Linked_List<int>::front': not all control paths return a value
+C:\Users\jessb\OneDrive\Documents\Fifth Year\Semester 2\Data\Assignment2\Assignment2\linked.h(107): warning C4715: 'Single_Linked_List<int>::back': not all control paths return a value
+  Assignment2.vcxproj -> C:\Users\jessb\OneDrive\Documents\Fifth Year\Semester 2\Data\Assignment2\arm64\Debug\Assignment2.exe
